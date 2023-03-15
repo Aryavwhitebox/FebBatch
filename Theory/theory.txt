@@ -1,0 +1,89 @@
+//welcome to js classes
+//0001101100=2
+0001101100=2
+0010110101=4
+//it will the programs to perform certain task
+//java - secure applications (banking application, payments) 
+//C - it is very quicker (airbags) 
+//python - AI , deep learning, machine learning
+//javascript - to create web applications
+//swift, ruby, php
+
+//javascript
+//basics or intro (variables)
+//operators
+//loops
+//arrays and strings
+//functions
+//objects
+//asynchronous javascript 
+
+//ES6
+
+DAY1:
+
+datatypes:
+data types are used to store some data
+types:
+1) primitive
+numbers - 1 2 3 4....
+float- 1.232323
+boolean -above 18 eligible to vote (true or false)
+string -'Ambika'
+null- empty
+undefined- 
+var a=10
+a
+console.log(a)//undefined
+
+
+2) non primitive
+arrays 
+objects
+
+
+//coercion or typecasting converting one datatype to other
+//implicit and explicit
+implicit 
+//implicit coercion wherein js will directly convert the datatype internally
+
+explicit
+//explicitly converting one data type to another by using datatype keywords
+number, string, boolean
+
+
+//DAY 2
+//operators: operators are used to perform certain tasks on the variable
+//Arithmetic operations: addition, subtraction, div 
+//incrementing or decrementing  10 11 10 9
+//pre inc or dec
+//first incrementation or decrementation is done then priniting happens
+
+//post inc or dec
+//first value will be printed and then it will make the variable ready for the inc or dec
+
+
+
+//even or odd 
+//logical operations (and and or)
+// t t t
+//t f  f
+
+
+//Day3
+
+//Loops and control statements
+// if else
+
+
+//functions****
+
+just a block of code to do something
+print something
+**** repetation of a certain task
+do the operations addition
+
+
+//Day 4
+
+//objects
