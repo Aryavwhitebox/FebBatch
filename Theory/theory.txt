@@ -87,3 +87,19 @@ do the operations addition
 //Day 4
 
 //objects
+//object
+
+//object is a property or a kind of non primitive datatype
+//which will contain key value pair information
+
+// create an object key value(function
+
+for or if else 
+
+)
+
+Arrays are non primitive datatypes
+which stores collection of elements of similar or disimilar datatypes
+
+
+
